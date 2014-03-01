@@ -1,2 +1,1 @@
-s = raw_input("Input string you want reversed: ")
-print s[::-1]
+print raw_input("Input string you want reversed: ")[::-1]
